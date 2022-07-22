@@ -23,6 +23,7 @@
             android:layout_height="wrap_content"
             android:textColor="#F0E68C"
             android:textSize="25sp"
+            android:textStyle="bold"
             android:text="반갑습니다."/>
 
         <TextView
